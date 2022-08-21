@@ -10,9 +10,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>anally</string>
+		<key>shortcut</key>
+		<string>anally</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>anus</string>
 		<key>shortcut</key>
 		<string>anus</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>anuses</string>
+		<key>shortcut</key>
+		<string>anuses</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -22,9 +34,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>arses</string>
+		<key>shortcut</key>
+		<string>arses</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ass</string>
 		<key>shortcut</key>
 		<string>ass</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>assed</string>
+		<key>shortcut</key>
+		<string>assed</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>asses</string>
+		<key>shortcut</key>
+		<string>asses</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -34,15 +64,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>assfuckers</string>
+		<key>shortcut</key>
+		<string>assfuckers</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>asshole</string>
 		<key>shortcut</key>
 		<string>asshole</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>assholes</string>
+		<key>shortcut</key>
+		<string>assholes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>assmuncher</string>
 		<key>shortcut</key>
 		<string>assmuncher</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>assmunchers</string>
+		<key>shortcut</key>
+		<string>assmunchers</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -58,6 +106,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>bastards</string>
+		<key>shortcut</key>
+		<string>bastards</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>bdsm</string>
 		<key>shortcut</key>
 		<string>bdsm</string>
@@ -67,6 +121,12 @@
 		<string>bitch</string>
 		<key>shortcut</key>
 		<string>bitch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bitches</string>
+		<key>shortcut</key>
+		<string>bitches</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -88,6 +148,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>blowjobs</string>
+		<key>shortcut</key>
+		<string>blowjobs</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>blumpkin</string>
 		<key>shortcut</key>
 		<string>blumpkin</string>
@@ -103,6 +169,12 @@
 		<string>boner</string>
 		<key>shortcut</key>
 		<string>boner</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>boners</string>
+		<key>shortcut</key>
+		<string>boners</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -142,6 +214,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cockbags</string>
+		<key>shortcut</key>
+		<string>cockbags</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>cockfoam</string>
 		<key>shortcut</key>
 		<string>cockfoam</string>
@@ -154,9 +232,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cockmongers</string>
+		<key>shortcut</key>
+		<string>cockmongers</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cocks</string>
+		<key>shortcut</key>
+		<string>cocks</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>cocksucker</string>
 		<key>shortcut</key>
 		<string>cocksucker</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cocksuckers</string>
+		<key>shortcut</key>
+		<string>cocksuckers</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -172,9 +268,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cockwombles</string>
+		<key>shortcut</key>
+		<string>cockwombles</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>crap</string>
 		<key>shortcut</key>
 		<string>crap</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>crappy</string>
+		<key>shortcut</key>
+		<string>crappy</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>craptastic</string>
+		<key>shortcut</key>
+		<string>craptastic</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -187,6 +301,12 @@
 		<string>cunt</string>
 		<key>shortcut</key>
 		<string>cunt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cunts</string>
+		<key>shortcut</key>
+		<string>cunts</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -220,9 +340,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>dicks</string>
+		<key>shortcut</key>
+		<string>dicks</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>dildo</string>
 		<key>shortcut</key>
 		<string>dildo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dildos</string>
+		<key>shortcut</key>
+		<string>dildos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -232,9 +364,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>dumbasses</string>
+		<key>shortcut</key>
+		<string>dumbasses</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>dyke</string>
 		<key>shortcut</key>
 		<string>dyke</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dykes</string>
+		<key>shortcut</key>
+		<string>dykes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -247,6 +391,18 @@
 		<string>faggot</string>
 		<key>shortcut</key>
 		<string>faggot</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>faggots</string>
+		<key>shortcut</key>
+		<string>faggots</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>fags</string>
+		<key>shortcut</key>
+		<string>fags</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -286,6 +442,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>fudgepackers</string>
+		<key>shortcut</key>
+		<string>fudgepackers</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ho</string>
 		<key>shortcut</key>
 		<string>ho</string>
@@ -298,9 +460,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>hos</string>
+		<key>shortcut</key>
+		<string>hos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>jackass</string>
 		<key>shortcut</key>
 		<string>jackass</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jackasses</string>
+		<key>shortcut</key>
+		<string>jackasses</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -328,6 +502,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>motherfuckers</string>
+		<key>shortcut</key>
+		<string>motherfuckers</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>motherfucking</string>
 		<key>shortcut</key>
 		<string>motherfucking</string>
@@ -343,6 +523,12 @@
 		<string>penis</string>
 		<key>shortcut</key>
 		<string>penis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pussies</string>
+		<key>shortcut</key>
+		<string>pussies</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -385,6 +571,12 @@
 		<string>shit</string>
 		<key>shortcut</key>
 		<string>shit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>shits</string>
+		<key>shortcut</key>
+		<string>shits</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -454,9 +646,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>turds</string>
+		<key>shortcut</key>
+		<string>turds</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>twat</string>
 		<key>shortcut</key>
 		<string>twat</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>twats</string>
+		<key>shortcut</key>
+		<string>twats</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -466,9 +670,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>twunts</string>
+		<key>shortcut</key>
+		<string>twunts</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>wanker</string>
 		<key>shortcut</key>
 		<string>wanker</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>wankers</string>
+		<key>shortcut</key>
+		<string>wankers</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -478,9 +694,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>weebs</string>
+		<key>shortcut</key>
+		<string>weebs</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>whore</string>
 		<key>shortcut</key>
 		<string>whore</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>whores</string>
+		<key>shortcut</key>
+		<string>whores</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
