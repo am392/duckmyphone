@@ -17,7 +17,7 @@ Updated: 21 August 2022
 * bitchy
 * bitties
 * blowjob
-* bumpkin
+* blumpkin
 * bollocks
 * boner
 * boob
