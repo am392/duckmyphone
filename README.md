@@ -3,6 +3,9 @@
 
 Files for adding obscenities to iPhone® to stop autocorrect
 
+## Word List
+[See the word list](wordlist.md)
+
 ## Easy Mode
 Easy mode adds a contact to your device contacts with all the words in the name.
 This will stop your phone from autocorrecting *fuck* to *duck*. It will
