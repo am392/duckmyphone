@@ -1,7 +1,6 @@
 # duckmyphone
-Since Apple said they will be changing iOS to fix autocorrect, this will no longer be maintained or updated.
 
-*This repository is archived, but I will leave the files and instructions here for future reference (in case Apple's fix doesn't meet people's needs).*
+*Since Apple said they will be changing iOS to fix autocorrect, this will no longer be maintained or updated. I will leave the files and instructions here for future reference (in case Apple's fix doesn't meet people's needs).*
 
 Files for adding obscenities to iPhone® to stop autocorrect
 
